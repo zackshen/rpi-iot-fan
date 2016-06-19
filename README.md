@@ -14,7 +14,7 @@
 把小电扇的开关盒子拆解掉后，用烙铁将焊接在铜片上的电线融掉拿下。
 把刚才的断头电线的两头接入继电器K1的常闭开关里。
 
-![relayswitch](relay_k1_switch.png)
+![relayswitch](relay_k1_switch.jpeg)
 
 ![result](IMG_2777.JPG)
 
