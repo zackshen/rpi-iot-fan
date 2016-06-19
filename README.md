@@ -4,7 +4,7 @@
 
 想到压箱底的RaspberryPi，拿出来准备控制一下小电扇还是可以的。
 
-![RaspberryPi的Pinout说明](Raspberry-Pi-v2-Mod-B-Pinout.pdf?raw=true)
+[RaspberryPi的Pinout说明](Raspberry-Pi-v2-Mod-B-Pinout.pdf)
 
 ![继电器](relay.jpg)
 
